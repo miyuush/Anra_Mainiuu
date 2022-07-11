@@ -1,3 +1,3 @@
-locals {
+locals  {
   instance_name = "web001"
 }
