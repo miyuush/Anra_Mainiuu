@@ -3,5 +3,5 @@
   connection: local
   gather_facts: false
   become: true
-  role:
-    - vim
+  roles:
+    - vim 
